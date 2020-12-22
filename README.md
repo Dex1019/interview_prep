@@ -1,5 +1,5 @@
 
-# DS problem solution in Kotlin
+# DS problem solution in Kotlin & Java
 
 ### Problem resources
 * Leetcode
