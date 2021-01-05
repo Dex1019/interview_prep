@@ -1,5 +1,9 @@
 package array
 
+/**
+ * 461. Hamming Distance
+ * https://leetcode.com/problems/hamming-distance/
+ */
 
 fun main(args: Array<String>) {
     val n1 = 9

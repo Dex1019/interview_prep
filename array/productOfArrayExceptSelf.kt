@@ -2,7 +2,6 @@ package array
 
 fun main() {
     val nums = intArrayOf(1, 2, 3, 4)
-
     print(productExceptSelf(nums).contentToString())
 }
 

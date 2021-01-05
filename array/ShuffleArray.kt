@@ -1,5 +1,9 @@
 package array
 
+/**
+ * 1470. Shuffle the Array
+ * https://leetcode.com/problems/shuffle-the-array/
+ */
 fun main(args: Array<String>) {
     val arr = intArrayOf(2, 5, 1, 3, 4, 7)
     println(shuffle(arr, 3).contentToString())

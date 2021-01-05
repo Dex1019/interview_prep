@@ -2,6 +2,11 @@ package array
 
 import kotlin.math.max
 
+/**
+ * 152. Maximum Product Subarray
+ * https://leetcode.com/problems/maximum-product-subarray/
+ */
+
 fun main() {
     val nums = intArrayOf(2, 3, -2, 4)
     print(maxProduct(nums))
